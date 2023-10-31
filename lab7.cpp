@@ -24,4 +24,8 @@ int main()
 
     Z = cos(P)
     cout << "Z = " << Z;
+    
+    while (True) {
+        cout << "Hello World";
+    }
 }
